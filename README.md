@@ -1,4 +1,4 @@
-# Frequencia de Numeros Avaliacao
+# Frequência de Números Avaliação
 Projeto Frequência de Números - Avaliação 1 Academia do Programador
 
 Neste problema sua tarefa será ler vários números e em seguida dizer quantas
