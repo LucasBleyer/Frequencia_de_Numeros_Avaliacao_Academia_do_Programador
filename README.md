@@ -1,4 +1,4 @@
-# Frequencia_de_Numeros_Avaliacao
+# Frequencia de Numeros Avaliacao
 Projeto Frequência de Números - Avaliação 1 Academia do Programador
 
 Neste problema sua tarefa será ler vários números e em seguida dizer quantas
@@ -16,3 +16,4 @@ Saída
 Imprima a saída de acordo com o exemplo fornecido abaixo, indicando quantas
 vezes cada um deles aparece na entrada por ordem crescente de valor.
 
+![image](https://user-images.githubusercontent.com/91075515/154735399-e8b7c09b-18c0-439d-b4e9-0b672871e8ef.png)
