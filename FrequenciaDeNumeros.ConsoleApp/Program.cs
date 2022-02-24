@@ -26,7 +26,7 @@ namespace FrequenciaDeNumeros.ConsoleApp
                     cont++;
                     j++;
 
-                    if (j == numeros.Length)// verificar se é o ultimo elemento
+                    if (j == numeros.Length)// verificar se é o ultimo elemento e parar
                     {
                         break;
                     }
